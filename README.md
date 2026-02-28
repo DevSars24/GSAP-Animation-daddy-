@@ -16,7 +16,7 @@ This repository is structured to help you go from **GSAP beginner → production
 
 **GSAP (GreenSock Animation Platform)** is an industry-standard JavaScript animation library used to build smooth, high-performance animations for websites and web applications.
 
-Unlike CSS animations, GSAP provides:
+GSAP provides:
 
 - Full control over timing  
 - Complex sequencing  
@@ -170,7 +170,7 @@ Used in:
 ✅ Master basics before advanced effects  
 
 ---
-
+```
 # 🛠 Where Developers Use These Features
 
 | Feature | Real Usage |
@@ -215,4 +215,3 @@ It is about:
 - Building premium-feel portfolio websites  
 - Understanding performance principles  
 
-If you're serious about frontend development — mastering GSAP gives you a competitive edge.
